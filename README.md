@@ -1,2 +1,4 @@
 # rsschool-2019Q1-html-css
-HTML CSS self education
+
+Olga Denisyuk
+HTML CSS Basics: https://www.codecademy.com/users/Olga_Denisyuk/achievements
